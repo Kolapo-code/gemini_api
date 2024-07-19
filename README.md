@@ -1,3 +1,5 @@
+![apollo-11](https://github.com/user-attachments/assets/4810e1f1-a695-41a8-8b63-f3db8a91dd34)
+
 ## Project
 
 Build an end-to-end Retrieval Augmented Generation (RAG) workflow for document search using the Gemini API
