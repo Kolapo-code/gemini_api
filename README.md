@@ -1,5 +1,6 @@
 ![apollo-11](https://github.com/user-attachments/assets/56d57a4f-aebc-4fb5-8be9-84e295b192c9)
 Project Flow
+
 These are the steps needed to complete the project:
 
 Data Preparation: The files are loaded and unzipped in the notebook environment.
